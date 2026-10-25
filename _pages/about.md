@@ -11,4 +11,4 @@ I am a data-driven cosmologist and postdoctoral fellow in UC Berkeley's [BCCP](h
 
 Before grad school, I studied physics and statistics at the University of Illinois at Urbana-Champaign, and then worked for several years in industry doing data science and analytics. My start in astronomy research was originally "just for fun" at the University of Chicago!
 
-I'm grateful that I get to think about the Universe as my job, and I'm passionate about helping others achieve their goals where I can. Please feel free to send me an email at <ezaborowski@berkeley.edu>.
+I'm grateful that I get to think about the Universe as my job, and I enjoy helping others achieve their goals where I can. Please feel free to send me an email at <ezaborowski@berkeley.edu>.
